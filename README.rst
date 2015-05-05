@@ -1,3 +1,6 @@
+.. image:: https://travis-ci.org/petedmarsh/dtargs.png?branch=master
+    :target: https://travis-ci.org/petedmarsh/dtargs
+
 Introduction
 ------------
 
