@@ -7,5 +7,6 @@ setup(name='dtargs',
       description='Date/time types for Argparse',
       author='Peter Marsh',
       author_email='pete.d.marsh@gmail.com',
+      url='https://github.com/petedmarsh/dtargs',
       py_modules=['dtargs'],
       install_requires=['pytz'])
