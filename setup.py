@@ -2,11 +2,11 @@
 
 from distutils.core import setup
 
-setup(name='dtargs',
-      version='0.1.0',
-      description='Date/time types for Argparse',
-      author='Peter Marsh',
+setup(author='Peter Marsh',
       author_email='pete.d.marsh@gmail.com',
-      url='https://github.com/petedmarsh/dtargs',
+      description='Date/time types for Argparse',
+      install_requires=['pytz'],
+      name='dtargs',
       py_modules=['dtargs'],
-      install_requires=['pytz'])
+      url='https://github.com/petedmarsh/dtargs',
+      version='0.1.0')
