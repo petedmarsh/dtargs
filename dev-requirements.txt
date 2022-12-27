@@ -1,4 +1,4 @@
 -r requirements.txt
 mock==1.0.1
 pytest==2.7.0
-setuptools==15.2
+setuptools==65.5.1
